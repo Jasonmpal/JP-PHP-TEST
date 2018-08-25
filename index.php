@@ -1,4 +1,4 @@
- <?php
+<?php
 $page_title="FREE example PHP code and online MySQL database - example username password protected site";
 $page_keywords="example PHP code,free demo username and password example,PHP scripts,PHP hosting, free PHP code";
 $page_desc="FREE example PHP code and a MySQL database. The example is a username and password protected site example";
@@ -54,4 +54,4 @@ using &lt;?php include(&quot;afilename.inc&quot;); ?&gt;<font SIZE="1" COLOR="#0
 
 <p align="center">You can <a href="demo-code.zip">download the free zip here</a> which contains all the pages.
 </p>
-<?php include("footer.inc"); ?> 
+<?php include("footer.inc"); ?>

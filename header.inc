@@ -12,14 +12,9 @@ if (!isset($page_desc)) $page_desc="FREE example PHP code and a MySQL database";
 <meta NAME="Content-Language" CONTENT="english">
 <meta name="Revisit-after" content="56 days">
 <meta name="Distribution" content="Global">
-<meta name="Copyright" content="Copyright Â© 1996-2008 Seiretto.com">
+<meta name="Copyright" content="Copyright © 1996-2008 Seiretto.com">
 <meta NAME="ROBOTS" CONTENT="ALL">
 <link rel="stylesheet" type="text/css" href="tds.css">
-<style type="text/css">
-.auto-style1 {
-    text-align: center;
-}
-</style>
 </head>
 
 <body BACKGROUND="DiscoverBack.gif"
@@ -31,11 +26,14 @@ TOPMARGIN="0" LEFTMARGIN="15" MARGINWIDTH="0" MARGINHEIGHT="0">
 <div align="center"><center>
 
 <strong><font color="#000000" face="Comic Sans MS">TheDemoSite.co.uk</font></strong>&nbsp; 
-    sample code:&nbsp;<a href="http://asp.thedemosite.co.uk/">ASP and MySQL</a> 
-    - <a href="http://php.thedemosite.co.uk/">PHP and MySQL</a>
-    - <a href="http://thedemosite.co.uk/phpformmailer/">phpFormMailer</a> -
-    <a href="http://asp.thedemosite.co.uk/asp_contact_email_form/asp_contact_email_form.asp">
-    ASP Contact form</a>&nbsp;&nbsp;
+	sample code:&nbsp;<a href="http://asp.thedemosite.co.uk/">ASP and MySQL</a> 
+	- <a href="http://php.thedemosite.co.uk/">PHP and MySQL</a> -
+	<a href="http://asp.thedemosite.co.uk/mssql/">PHP and MsSQL</a>
+
+
+	- <a href="http://thedemosite.co.uk/phpformmailer/">phpFormMailer</a> -
+	<a href="http://asp.thedemosite.co.uk/asp_contact_email_form/asp_contact_email_form.asp">
+	ASP Contact form</a>&nbsp;&nbsp;
 <table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
     <td width="100%"><p align="center"><img height="2" src="line.gif" width="99%" border="0"
@@ -47,7 +45,7 @@ TOPMARGIN="0" LEFTMARGIN="15" MARGINWIDTH="0" MARGINHEIGHT="0">
     border="0" width="98%" cellspacing="0" cellpadding="0">
       <tr>
         <td style="width: 22%"><font face="Comic Sans MS"><big><strong>PHP and 
-        MySQL<br></strong>sample code</big></font></td>
+		MySQL<br></strong>sample code</big></font></td>
         <td><p align="center"><small>Just examples of <b>PHP</b> code, linking to your <b>MySQL</b>
         database and JavaScript.<br>
         <a href="index.php">1. Home</a> | <a href="thedatabase.php">2. The Database</a> | <a
@@ -64,8 +62,8 @@ TOPMARGIN="0" LEFTMARGIN="15" MARGINWIDTH="0" MARGINHEIGHT="0">
   </tr>
 </table>
 </center></div>
+</table>
 
 <table border="0" width="100%">
   <tr>
-    <td class="auto-style1">
-    <div style="font-style:italic; color:green">All code updated April 2014, now uses PHP/PDO for database connectivity</div>
+    <td>
